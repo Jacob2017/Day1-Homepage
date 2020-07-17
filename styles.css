@@ -40,6 +40,8 @@ body {
 .top-para h1 {
     font-size: 90px;
     color: dodgerblue;
+    margin-top: 10px;
+    margin-bottom: 25px;
 }
 
 .top-para p {
